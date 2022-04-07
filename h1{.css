@@ -1,7 +1,12 @@
-h1{
+.one{
     font-size: 2vw;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(230, 46, 49);
     padding: 30px;
+    outline-style: double;
+    outline-width: 10px;
+    border: solid 10px  dashed ;
+    position: absolute ;
+    
     
 }
