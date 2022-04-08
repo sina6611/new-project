@@ -1,12 +1,18 @@
 .one{
     font-size: 2vw;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(230, 46, 49);
+    color: #0b3c0f96;
     padding: 30px;
     outline-style: double;
     outline-width: 10px;
     border: solid 10px  dashed ;
     position: absolute ;
+    outline-color: aquamarine;
     
     
 }
+@media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
