@@ -11,6 +11,7 @@
     border: dotted 5px  #585e5896 ;
     text-align: center;
      text-decoration: underline dashed hsl(21, 82%, 54%);
+     text-transform: capitalize;
 
 
     
