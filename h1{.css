@@ -1,7 +1,8 @@
+
 .one{
     font-size: 2vw;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #0b3c0f96;
+    font-family:Merienda;
+    color:antiquewhite;
     padding: 30px;
     outline-style: double;
     outline-width: 10px;
@@ -10,7 +11,8 @@
     outline-offset: 20px;
     border: dotted 5px  #585e5896 ;
     text-align: center;
-     text-transform: capitalize;
+    text-transform: capitalize;
+     
 
 
     
@@ -21,7 +23,7 @@
     text-align: center;
     text-shadow: #0b3c0f96; 
     font-size: 2vw;
-    left: 500px;top: 300px;
+    left: 800px;top: 300px;
     font-family: Indie Flower;
     color: antiquewhite;
 
@@ -30,7 +32,7 @@
 .three{
     position: absolute;
     text-align: center;
-    left: 300px;top: 400px;
+    left: 300px;top: 500px;
     font-size: 2vw;
    font-family: Indie Flower;
    color: wheat;
@@ -46,4 +48,14 @@
     font-size: 2vw;
     color: beige;
     
+}
+.five{
+    position: absolute;
+    text-align: center;
+    text-shadow: #0b3c0f96; 
+    font-size: 2vw;
+    left: 700px;top: 400px;
+    font-family: Indie Flower;
+    color: antiquewhite;
+
 }
