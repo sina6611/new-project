@@ -10,10 +10,15 @@
     outline-offset: 20px;
     border: dotted 5px  #585e5896 ;
     text-align: center;
-     text-decoration: underline dashed hsl(21, 82%, 54%);
      text-transform: capitalize;
 
 
     
     
+}
+a.two{
+    position: relative;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: #0b3c0f96; 
 }
