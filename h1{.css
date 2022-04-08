@@ -49,6 +49,7 @@
     font-size: 2vw;
     color: beige;
     
+    
 }
 .five{
     position: absolute;
@@ -59,4 +60,9 @@
     font-family: Indie Flower;
     color: antiquewhite;
 
+}
+
+a:hover{
+
+    background-color: rgb(159, 55, 185);
 }
