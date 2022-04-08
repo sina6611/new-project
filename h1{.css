@@ -9,7 +9,9 @@
     outline-color: rgb(160, 163, 211);
     outline-offset: 20px;
     border: dotted 5px  #585e5896 ;
-    text-align: cenetr;
+    text-align: center;
+     text-decoration: underline dashed hsl(21, 82%, 54%);
+
 
     
     
