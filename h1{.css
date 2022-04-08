@@ -16,23 +16,29 @@
     
     
 }
-two{
-    position: relative;
+.two{
+    position: absolute;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: #0b3c0f96; 
+    font-size: 2vw;
+    left: 500px;top: 300px;
 }
 
-three{
-    position: relative;
+.three{
+    position: absolute;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-shadow: #0b3c0f96; 
+    left: 300px;top: 400px;
+    font-size: 2vw;
 }
 
-:-moz-focusring{
-    position: relative;
+.four{
+    position: absolute;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: #0b3c0f96; 
+    left: 700px;top: 600px;
+    font-size: 2vw;
+    
 }
