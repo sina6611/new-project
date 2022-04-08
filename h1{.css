@@ -5,10 +5,12 @@
     padding: 30px;
     outline-style: double;
     outline-width: 10px;
-    border: solid 30px  dashed red ;
     position: absolute ;
-    outline-color: aquamarine;
+    outline-color: rgb(160, 163, 211);
     outline-offset: 20px;
+    border: dotted 5px  #585e5896 ;
+    text-align: cenetr;
+
     
     
 }
